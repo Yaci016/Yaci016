@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yacine kherbache</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate fullstack developer @ [Clapy](https://clapy.co)</h3>
 
 <p align="right"> <a href="https://twitter.com/yacinekherbache" target="blank"><img src="https://img.shields.io/twitter/follow/yacinekherbache?logo=twitter&style=for-the-badge" alt="yacinekherbache" /></a> </p>
 
-- 🔭 I’m currently working on [hunter x hunter RPG](https://hxh-rpg.fr)
+- 🔭 Side project : I’m currently working on [hunter x hunter RPG](https://hxh-rpg.fr)
 
-- 🌱 I’m currently learning **Docker and CI/CD Pipelines**
+- 🌱 I’m currently learning redux and redux toolkit
 
 - 👨‍💻 All of my projects are available at [https://yaci.fr](https://yaci.fr)
 
