@@ -5,7 +5,7 @@
 
 - 🔭 Side project : I’m currently working on [hunter x hunter RPG](https://hxh-rpg.fr)
 
-- 🌱 I’m currently learning **redux toolkit**
+- 🌱 I’m currently learning DDD 
 
 - 👨‍💻 All of my projects are available at [https://yaci.fr](https://yaci.fr)
 
