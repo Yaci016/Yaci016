@@ -3,7 +3,6 @@
 
 <p align="right"> <a href="https://twitter.com/yacinekherbache" target="blank"><img src="https://img.shields.io/twitter/follow/yacinekherbache?logo=twitter&style=for-the-badge" alt="yacinekherbache" /></a> </p>
 
-- 🔭 Side project : I’m currently working on [hunter x hunter RPG](https://hxh-rpg.fr)
 
 - 🌱 I’m currently learning DDD 
 
